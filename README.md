@@ -4,6 +4,9 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about HTML, CSS, React, Node, Java Script
 - 😄 Pronouns: Him/His
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasmcarvalho)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jonasmcarvalho/jonasmcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

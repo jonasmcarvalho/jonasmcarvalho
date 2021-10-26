@@ -1,6 +1,6 @@
 ### Hi there, my name is Jonas Carvalho 👋
 
-- 🌱 I’m currently learning HTML, CSS, React, Node, Java Script on Rocketseat
+- 🌱 I’m currently learning HTML, CSS, React, Node, Java Script in Rocketseat
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about HTML, CSS, React, Node, Java Script
 - 😄 Pronouns: Him/His
